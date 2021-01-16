@@ -1,0 +1,5 @@
+2020-12-16 19:03:23,263 - [INFO]- [Class_14_excel_add_unittest_Html]- [case] - [70] [日志信息]:
+running test method:test_negative_multi
+2020-12-16 19:03:23,274 - [ERROR]- [Class_14_excel_add_unittest_Html]- [case] - [89] [日志信息]:具体异常为：-15 != 8 : 测试正数与正数相加失败
+2020-12-16 19:03:23,309 - [INFO]- [Class_14_excel_add_unittest_Html]- [case] - [58] [日志信息]:
+=================用例执行结束=================
