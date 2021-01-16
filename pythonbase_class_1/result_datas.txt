@@ -1,0 +1,9 @@
+﻿name,age,gender,hobby,motto
+可优,17,男,臭美,Always Be Coding!
+柠檬小姐姐,16,女,可优,Lemon is best!
+name,age,gender,hobby,motto
+可优,17,男,臭美,Always Be Coding!
+柠檬小姐姐,16,女,可优,Lemon is best!
+name,age,gender,hobby,motto
+可优,17,男,臭美,Always Be Coding!
+柠檬小姐姐,16,女,可优,Lemon is best!
